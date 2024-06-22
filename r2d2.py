@@ -1,3 +1,4 @@
+
 def print_r2():
     print(r"""____________________________________________________________
                    _______      _____   ______     _____                           
@@ -26,5 +27,5 @@ if __name__ == '__main__':
     print_r2()
     print_version()
     username = input("Please, enter a username to check its password:")
-    
+
 
