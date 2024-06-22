@@ -1,0 +1,14 @@
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\bin\Debug\net7.0\R2D2-Campustic.exe
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\bin\Debug\net7.0\R2D2-Campustic.deps.json
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\bin\Debug\net7.0\R2D2-Campustic.runtimeconfig.json
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\bin\Debug\net7.0\R2D2-Campustic.dll
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\bin\Debug\net7.0\R2D2-Campustic.pdb
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\R2D2-Campustic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\R2D2-Campustic.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\R2D2-Campustic.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\R2D2-Campustic.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\R2D2-Campustic.dll
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\refint\R2D2-Campustic.dll
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\R2D2-Campustic.pdb
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\R2D2-Campustic.genruntimeconfig.cache
+C:\Users\Antonio\Desktop\r2d2-campustic\R2D2-Campustic\obj\Debug\net7.0\ref\R2D2-Campustic.dll
