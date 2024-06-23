@@ -1,7 +1,3 @@
-##
-# Este programa forma parte de una simulación
-##
-
 import requests
 
 url = "http://156.35.98.159:8080/r2d2"
