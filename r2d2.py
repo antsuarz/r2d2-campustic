@@ -1,8 +1,3 @@
-import requests
-
-url = "http://156.35.98.159:8080/r2d2"
-url_localhost = "http://localhost:8080/r2d2"
-
 def print_r2():
     print(r"""____________________________________________________________
                    _______      _____   ______     _____                           
@@ -43,15 +38,9 @@ if __name__ == '__main__':
                 if(index == 2500 or index == 5000 or index == 75000 or index == 10000):
                     print_index(index/100)
                 line = line.strip() 
-                data = {
-                    "username": username, 
-                    "password": line
-                }
-                if line == "kenobi" or line == "18436572" or line == "hansolo" or line == "qwerty" or line == "maggie" or line == "gandalf":
-                    response = requests.get(url, json=data)
-                    if response.status_code == 200:
-                        print("Coincidence Found!")
-                        password = line 
+                if line == "18436572" and username == "chevy" or line == "kenobi" and username == "ben" or line == "hansolo" and username == "leia" or line == "maggie" and username == "matt" or line == "gandalf" and username == "baggins" or line == "qwerty" and username == "sholes":
+                    print("Coincidence Found!")
+                    password = line
         if password == "":
             print("____________________________________________________________")
             print("Not founded password for user: "+username)
