@@ -1,3 +1,5 @@
+import time
+
 def print_r2():
     print(r"""____________________________________________________________
                    _______      _____   ______     _____                           
@@ -35,8 +37,9 @@ if __name__ == '__main__':
         with open('10k-worst-passwords.txt', 'r') as file: 
             for line in file: 
                 index += 1
-                if(index == 2500 or index == 5000 or index == 75000 or index == 10000):
+                if(index == 500 or index == 1000  or index == 2500 or index == 5000 or index == 75000 or index == 10000):
                     print_index(index/100)
+                    time.sleep(2)
                 line = line.strip() 
                 if line == "18436572" and username == "chevy" or line == "kenobi" and username == "ben" or line == "hansolo" and username == "tt_sahur" or line == "maggie" and username == "matt" or line == "gandalf" and username == "baggins" or line == "qwerty" and username == "sholes":
                     print("Coincidence Found!")
